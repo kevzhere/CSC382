@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\kevinz\desktop\csc382\lab1.5\lab1.5\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kevinz\desktop\csc382\lab1.5\lab1.5\source.cpp(10): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\kevinz\desktop\csc382\lab1.5\lab1.5\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lab1.5.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\lab1.5\Debug\lab1.5.exe
+  lab1.5.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\lab1.5\Debug\lab1.5.pdb (Partial PDB)
