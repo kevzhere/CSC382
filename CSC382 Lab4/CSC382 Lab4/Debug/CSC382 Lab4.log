@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\kevinz\desktop\csc382\csc382 lab4\csc382 lab4\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kevinz\desktop\csc382\csc382 lab4\csc382 lab4\source.cpp(37): warning C4477: 'printf' : format string '%20ld' requires an argument of type 'long', but variadic argument 3 has type 'double'
+c:\users\kevinz\desktop\csc382\csc382 lab4\csc382 lab4\source.cpp(65): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CSC382 Lab4.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\CSC382 Lab4\Debug\CSC382 Lab4.exe
+  CSC382 Lab4.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\CSC382 Lab4\Debug\CSC382 Lab4.pdb (Partial PDB)

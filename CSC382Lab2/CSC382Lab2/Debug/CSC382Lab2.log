@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kevinz\desktop\csc382\csc382lab2\csc382lab2\source.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CSC382Lab2.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\CSC382Lab2\Debug\CSC382Lab2.exe
+  CSC382Lab2.vcxproj -> C:\Users\Kevinz\Desktop\CSC382\CSC382Lab2\Debug\CSC382Lab2.pdb (Partial PDB)
